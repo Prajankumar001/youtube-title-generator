@@ -13,6 +13,7 @@ This project fine-tunes an OpenAI model to generate compelling YouTube titles by
 ### 1. **Start with Kaggle Dataset**
    - Begin with the `US_youtube_trending_data.csv` from Kaggle
    - This dataset contains trending video data including titles, channels, views, and metadata
+   - You can [download this from here](https://drive.google.com/file/d/1p-GNE9iNagPQAF6HecFsU2jUBo0gXKpB/view?usp=sharing")
 
 ### 2. **Filter by Category**
    - Run `scripts/filter_category_28.py` to extract videos from category 28 (Science & Technology)
